@@ -1,0 +1,12 @@
+[
+    {
+        "session": "p1",
+        "placed":[
+            {}
+        ]
+    },
+    {"session": "p2"},
+    {"session": "p3"},
+    {"session": "q1"},
+    {"session": "race"}
+]

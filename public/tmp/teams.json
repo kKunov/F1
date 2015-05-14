@@ -1,0 +1,191 @@
+[
+    {
+        "id": 1,
+        "name": "Mercedes AMG Petronas Formula One Team",
+        "drivers": [
+            {
+                "name": "L.Hamilton",
+                "country": "Great Britain",
+                "pic": "img/hamilton.jpg"
+            },
+            {
+                "name": "N.Rosberg",
+                "country": "Germany",
+                "pic": "img/rosberg.jpg"
+            }
+        ],
+        "engine": "Mercedes",
+        "pic": "img/mercedes.png"
+        },
+
+    {
+        "id": 2,
+        "name": "Scuderia Ferrari",
+        "drivers": [
+        {
+            "name": "S.Vettel",
+            "country": "Germany",
+            "pic": "img/vettel.jpg"
+            },
+            {
+                "name": "K.Raikkonen",
+                "country": "Finland",
+                "pic": "img/raikkonen.jpg"
+            }
+        ],
+        "engine": "Ferrari",
+        "pic": "img/ferrari.gif"
+        },
+
+    {
+        "id": 3,
+        "name": "Williams Martini Racing",
+        "drivers": [
+        {
+            "name": "F.Massa",
+            "country": "Brazil",
+            "pic": "img/vettel.jpg"
+            },
+            {
+                "name": "V.Bottas",
+                "country": "Finland",
+                "pic": "img/vettel.jpg"
+            }
+        ],
+        "engine": "Mercedes",
+        "pic": "img/williams.jpeg"
+        },
+
+    {
+        "id": 4,
+        "name": "Infiniti Red Bull Racing",
+        "drivers":[
+        {
+            "name": "D.Ricciardo",
+            "country": "Australia",
+            "pic": "img/vettel.jpg"
+            },
+            {
+                "name": "D.Kvyat",
+                "country": "Russia",
+                "pic": "img/vettel.jpg"
+            }
+        ],
+        "engine": "Renault",
+        "pic": "img/red_bull.jpg"
+        },
+
+    {
+        "id": 5,
+        "name": "Sauber F1 Team",
+        "drivers":[
+        {
+            "name": "M.Ericsson",
+            "country": "Sweden",
+            "pic": "img/vettel.jpg"
+            },
+            {
+                "name": "F.Nasr",
+                "country": "Brazil",
+                "pic": "img/vettel.jpg"
+            }
+        ],
+        "engine": "Ferrari",
+        "pic": "img/sauber.jpg"
+        },
+
+    {
+        "id": 6,
+        "name": "Lotus F1 Team",
+        "drivers": [
+        {
+            "name": "R.Grosjean",
+            "country": "France",
+            "pic": "img/vettel.jpg"
+            },
+            {
+                "name": "P.Maldonado",
+                "country": "Venezuela",
+                "pic": "img/vettel.jpg"
+            }
+        ],
+        "engine": "Mercedes",
+        "pic": "img/lotus.jpg"
+        },
+
+    {
+        "id": 7,
+        "name": "Scuderia Toro Rosso",
+        "drivers": [
+        {
+            "name": "M.Verstappen",
+            "country": "Netherlands",
+            "pic": "img/vettel.jpg"
+            },
+            {
+                "name": "C.Sainz",
+                "country": "Spain",
+                "pic": "img/vettel.jpg"
+            }
+        ],
+        "engine": "Renault",
+        "pic": "img/toro_rosso.jpg"
+        },
+
+    {
+        "id": 8,
+        "name": "Sahara Force India F1 Team",
+        "drivers": [
+        {
+            "name": "S.Perez",
+            "country": "Mexico",
+            "pic": "img/vettel.jpg"
+            },
+            {
+                "name": "N.Hulkenberg",
+                "country": "Germany",
+                "pic": "img/vettel.jpg"
+            }
+        ],
+        "engine": "Mercedes",
+        "pic": "img/force_india.jpg"
+        },
+
+    {
+        "id": 9,
+        "name": "McLaren Honda",
+        "drivers": [
+        {
+            "name": "F.Alonso",
+            "country": "Spain",
+            "pic": "img/vettel.jpg"
+            },
+            {
+                "name": "j.Button",
+                "country": "Great Britain",
+                "pic": "img/vettel.jpg"
+            }
+        ],
+        "engine": "Honda",
+        "pic": "img/mclaren.jpg"
+        },
+
+    {
+        "id": 10,
+        "name": "Manor Marussia F1 Team",
+        "drivers": [
+        {
+            "name": "W.Stevens",
+            "country": "Great Britain",
+            "pic": "img/vettel.jpg"
+            },
+            {
+                "name": "R.Merhi",
+                "country": "Spain",
+                "pic": "img/vettel.jpg"
+            }
+        ],
+        "engine": "Ferrari",
+        "pic": "img/marussia.jpg"
+        }
+]
