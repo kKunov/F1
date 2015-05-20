@@ -1,13 +1,13 @@
 each team in teams
-    .row
+    .row.table-color
         .col-xs-2.col-xs-offset-2
-                img.img-thumbnail(src=team.pic)
+                img.img-thumbnail.pic-border(src=team.pic)
                 h5.text-center= team.name
 
         .col-xs-2.col-xs-offset-1
             h2= team.engine
 
         each driver in team.drivers
-            .col-xs-1
+            .col-xs-1.col-xs-offset-1
                 img.img-thumbnail(src=driver.pic)
                 h6.text-center= driver.name

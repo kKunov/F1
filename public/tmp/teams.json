@@ -44,12 +44,12 @@
         {
             "name": "F.Massa",
             "country": "Brazil",
-            "pic": "img/vettel.jpg"
+            "pic": "img/massa.jpg"
             },
             {
                 "name": "V.Bottas",
                 "country": "Finland",
-                "pic": "img/vettel.jpg"
+                "pic": "img/bottas.jpg"
             }
         ],
         "engine": "Mercedes",
@@ -63,12 +63,12 @@
         {
             "name": "D.Ricciardo",
             "country": "Australia",
-            "pic": "img/vettel.jpg"
+            "pic": "img/ricciardo.jpg"
             },
             {
                 "name": "D.Kvyat",
                 "country": "Russia",
-                "pic": "img/vettel.jpg"
+                "pic": "img/кvyat.jpg"
             }
         ],
         "engine": "Renault",
@@ -82,12 +82,12 @@
         {
             "name": "M.Ericsson",
             "country": "Sweden",
-            "pic": "img/vettel.jpg"
+            "pic": "img/ericsson.jpg"
             },
             {
                 "name": "F.Nasr",
                 "country": "Brazil",
-                "pic": "img/vettel.jpg"
+                "pic": "img/nasr.jpg"
             }
         ],
         "engine": "Ferrari",
@@ -101,12 +101,12 @@
         {
             "name": "R.Grosjean",
             "country": "France",
-            "pic": "img/vettel.jpg"
+            "pic": "img/grosjean.jpg"
             },
             {
                 "name": "P.Maldonado",
                 "country": "Venezuela",
-                "pic": "img/vettel.jpg"
+                "pic": "img/maldonado.jpg"
             }
         ],
         "engine": "Mercedes",
@@ -120,12 +120,12 @@
         {
             "name": "M.Verstappen",
             "country": "Netherlands",
-            "pic": "img/vettel.jpg"
+            "pic": "img/verstappen.jpg"
             },
             {
                 "name": "C.Sainz",
                 "country": "Spain",
-                "pic": "img/vettel.jpg"
+                "pic": "img/sainz.jpg"
             }
         ],
         "engine": "Renault",
@@ -139,12 +139,12 @@
         {
             "name": "S.Perez",
             "country": "Mexico",
-            "pic": "img/vettel.jpg"
+            "pic": "img/perez.jpg"
             },
             {
                 "name": "N.Hulkenberg",
                 "country": "Germany",
-                "pic": "img/vettel.jpg"
+                "pic": "img/hulkenberg.jpg"
             }
         ],
         "engine": "Mercedes",
@@ -158,12 +158,12 @@
         {
             "name": "F.Alonso",
             "country": "Spain",
-            "pic": "img/vettel.jpg"
+            "pic": "img/alonso.jpg"
             },
             {
                 "name": "j.Button",
                 "country": "Great Britain",
-                "pic": "img/vettel.jpg"
+                "pic": "img/button.jpg"
             }
         ],
         "engine": "Honda",
@@ -177,12 +177,12 @@
         {
             "name": "W.Stevens",
             "country": "Great Britain",
-            "pic": "img/vettel.jpg"
+            "pic": "img/stevens.jpg"
             },
             {
                 "name": "R.Merhi",
                 "country": "Spain",
-                "pic": "img/vettel.jpg"
+                "pic": "img/merhi.jpg"
             }
         ],
         "engine": "Ferrari",

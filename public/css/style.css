@@ -1,0 +1,45 @@
+body {
+    background-color: #666666;
+}
+
+.my-menu {
+    background-color: black;
+    border-color: #FFCC00;
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: #A30000;
+  background-color: transparent;
+}
+
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+  color: green;
+  background-color: transparent;
+}
+
+.table-head {
+    background-color: #730000;
+    border-bottom:  solid 2px #FFCC00;
+}
+
+.yellow {
+    background-color: #FFCC00;
+}
+
+.img-thumbnail {
+    background-color: #730000;
+    border-color: #FFCC00;
+}
+
+.table-color {
+    background-color: #333333;
+    border: solid 2px #FFCC00;
+}
+h1, h2, h3, h5, h6 {
+    color: black;
+}
+
+p {
+    color: black;
+}
