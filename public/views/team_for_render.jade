@@ -1,18 +1,13 @@
 each team in teams
-.row
-    .col-xs-2.col-xs-offset-1
-        .thumbnail
-            img(src=team['pic'])
-            .caption
-                h3= team['name']
+    .row
+        .col-xs-2.col-xs-offset-2
+                img.img-thumbnail(src=team.pic)
+                h5.text-center= team.name
 
-    .col-xs-2
-        h2= team['engine']
+        .col-xs-2.col-xs-offset-1
+            h2= team.engine
 
-    .col-xs-2
-        each driver in team['drivers']
-        .row
-            .thumbnail
-                img.img-circle(src=driver['pic'])
-                .caption
-                    h4= driver['name']
+        each driver in team.drivers
+            .col-xs-1
+                img.img-thumbnail(src=driver.pic)
+                h6.text-center= driver.name

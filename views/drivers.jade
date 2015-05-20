@@ -4,15 +4,16 @@ block info
     include small-bar-td.jade
 
     .row
+        .col-xs-2.col-xs-offset-2
+            h2.text-center Driver
         .col-xs-2.col-xs-offset-1
-            .thumbnail
-                img(src="img/vettel.jpg")
+            h2.text-center Name
         .col-xs-2
-            h2 S.Vettel
+            h2.text-center Country
+    #driversCont
 
-    .row
-        .col-xs-2.col-xs-offset-1
-            .thumbnail
-                img(src="img/raikkonen.jpg")
-        .col-xs-2
-            h2 K.Raikkonen
+    script(src="/lib/jquery/dist/jquery.js")
+    script(src='/lib/q/q.js')
+    script(src="/lib/jade/jade.js")
+    script(src='/js/init.js')
+    script(src='/js/app_drivers.js')
